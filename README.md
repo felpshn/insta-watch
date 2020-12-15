@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/felpshn/instafollow">
-        <img width="775" height="196" src="https://github.com/felpshn/instafollow/blob/master/.github/instafollow-logo.png">
+        <img src="https://github.com/felpshn/instafollow/blob/master/.github/instafollow-logo.png">
     </a>
 </p>
 
