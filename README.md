@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/felpshn/instafollow/releases/">
-        <img src="https://img.shields.io/badge/version-3.0-lightgrey">
+        <img src="https://img.shields.io/badge/version-3.x-lightgrey">
     </a>
     <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/built%20with-Python%203-blue">
@@ -33,7 +33,7 @@ Before we begin, make sure that you have `git`, `python 3` and `pip` installed i
 **Supported browsers**
 - [Google Chrome (Linux & Windows)](https://chromedriver.chromium.org/downloads)
 - [Microsoft Edge Chromium Based (Windows)](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads)
-- [Mozilla Firefox (Linux & Windows)](https://github.com/mozilla/geckodriver/releases)
+- [Mozilla Firefox (Linux & Windows)](https://github.com/mozilla/geckodriver/releases) [Recommended]
 
 After that, download your browser's webdriver by clicking in his name above. When you're up to download the webdriver, if were offered many versions, choose that one who matches your browser's current version or some previous version that are most close to it, for better compatibility and to avoid unexpected behavior.
 
